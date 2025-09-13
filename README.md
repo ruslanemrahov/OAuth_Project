@@ -42,7 +42,7 @@ npm install express cors nodemon
 
 5. Serveri işə salın:
 ```bash
-node server.js
+npm run dev
 ```
 
 Server http://localhost:3000 ünvanında işləyəcək.
