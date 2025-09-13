@@ -35,7 +35,7 @@ npm init -y
 
 3. Lazımi paketləri quraşdırın:
 ```bash
-npm install express cors
+npm install express cors nodemon
 ```
 
 4. server.js faylını yaradın və kodu əlavə edin
